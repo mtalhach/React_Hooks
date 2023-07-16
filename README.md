@@ -210,7 +210,19 @@ Built-in Hook in react.
 </a></li>
     </ul>
     </li>
+   
+ <li><a href="https://www.youtube.com/watch?v=W3_GIiN-nuc&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=32&ab_channel=Codevolution">  useCounter Custom Hook</a>
+       <ul>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/custom-hooks/src/components/CounterOne.js">CounterOne.js
+      </a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/custom-hooks/src/components/CounteTwo.js">CounterTwo.js
+      </a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/custom-hooks/src/hooks/useCounter.js">useCounter.js
+      </a></li>
+    </ul>
+    </li>
 
+     
    
  </ul>
 
