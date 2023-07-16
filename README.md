@@ -213,9 +213,7 @@ Built-in Hook in react.
 
     <li><a href="https://www.youtube.com/watch?v=W3_GIiN-nuc&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=32&ab_channel=Codevolution">  useCounter Custom Hook</a>
        <ul>
-      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/custom-hooks/src/components/CounterOne.js
-">CounterOne.js
-</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/custom-hooks/src/components/CounterOne.js">CounterOne.js</a></li>
       <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/custom-hooks/src/components/CounteTwo.js">CounterTwo.js
 </a></li>
       <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/custom-hooks/src/hooks/useCounter.js">useCounter.js
@@ -225,9 +223,7 @@ Built-in Hook in react.
 
      <li><a href="https://www.youtube.com/watch?v=6am-yn3ZLEw&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=33&ab_channel=Codevolution">useInput Custom Hookk</a>
        <ul>
-      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/custom-hooks/src/components/UserForm.js
-">UserForm.js
-</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/custom-hooks/src/components/UserForm.js">UserForm.js</a></li>
       <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/custom-hooks/src/hooks/useInput.js">useInput.js
 </a></li>
     </ul>
