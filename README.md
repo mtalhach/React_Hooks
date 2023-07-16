@@ -82,3 +82,65 @@ Built-in Hook in react.
   </li>
 </ul>
 
+# useReducer Hook
+Built-in Hook in react.
+<ul>
+   <li><a href="https://www.youtube.com/watch?v=cVYp4u1m6iA&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=18&ab_channel=Codevolution">  useReducer Hook</a></li>
+  <li><a href="https://www.youtube.com/watch?v=IHJ-TO_1nME&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=19&ab_channel=Codevolution">useReducer (simple state & action)</a>
+    <ul>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/reducer-hook/src/components/CounterOne.js">CounterOne.js
+</a></li>
+    </ul>
+  </li>
+  
+  <li><a href="https://www.youtube.com/watch?v=uX7lxFrWUbA&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=20&ab_channel=Codevolution">useReducer (complex state & action)</a>
+    <ul>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/reducer-hook/src/components/CounterTwo.js">CounterTwo.js
+</a></li>
+    </ul>
+  </li>
+
+  <li><a href="https://www.youtube.com/watch?v=5DsCKNRA8s4&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=21&ab_channel=Codevolution"> Multiple useReducers</a>
+    <ul>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/reducer-hook/src/components/CounterThree.js">CounterTwo.js
+</a></li>
+    </ul>
+  </li>
+
+   <li><a href="https://www.youtube.com/watch?v=BCD2irXaVoE&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=22&ab_channel=Codevolution"> useReducer with useContext</a>
+    <ul>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/reducer-hook/src/App.js">App.js
+</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/reducer-hook/src/components/ComponentA.js">ComponentA.js
+</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/reducer-hook/src/components/ComponentB.js">ComponentB.js
+</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/reducer-hook/src/components/ComponentC.js">ComponentC.js
+</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/reducer-hook/src/components/ComponentD.js">ComponentD.js
+</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/reducer-hook/src/components/ComponentE.js">ComponentE.js
+</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/reducer-hook/src/components/ComponentF.js">ComponentF.js
+</a></li>
+    </ul>
+  </li>
+
+   <li><a href="https://www.youtube.com/watch?v=snzS7-73SEQ&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=23&ab_channel=Codevolution"> Fetching data with useReducer Part 1</a>
+    <ul>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/reducer-hook/src/components/DataFetchingOne.js">DataFetchingOne.js
+</a></li>
+    </ul>
+  </li>
+
+   <li><a href="https://www.youtube.com/watch?v=imjfiXxvMD8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=24&ab_channel=Codevolution"> Fetching data with useReducer Part 2</a>
+    <ul>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/reducer-hook/src/components/DataFetchingTwo.js">DataFetchingTwo.js
+</a></li>
+    </ul>
+  </li>
+
+   <li><a href="https://www.youtube.com/watch?v=3VClygDRSsU&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=25&ab_channel=Codevolution">  useState vs useReducer</a>
+   </li>
+</ul>
+
