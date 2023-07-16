@@ -57,4 +57,12 @@ Built-in Hook in react.
 </a></li>
     </ul>
   </li>
+
+   <li><a href="https://www.youtube.com/watch?v=bYFYF2GnMy8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=13&ab_channel=Codevolution">  Fetching data with useEffect Part 1</a> </li>
+   <li><a href="https://www.youtube.com/watch?v=1tfd6ANaNRY&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=14&ab_channel=Codevolution">   Fetching data with useEffect Part 2</a> </li>
+   <li><a href="https://www.youtube.com/watch?v=zm_09NER-R0&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=14&ab_channel=Codevolution">  Fetching data with useEffect Part 3</a> 
+    <ul>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/effect-hook/src/components/DataFetching.js">DataFetching.js</a></li>
+    </ul>
+  </li>
 </ul>
