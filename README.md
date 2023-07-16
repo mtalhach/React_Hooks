@@ -28,18 +28,33 @@ Built-in Hook in react.
       <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/state-hook/src/components/HookCounterFour.js">HookCounterFour.js</a></li>
     </ul>
   </li>
-
 </ul> 
 
 # useEffect Hook 
 Built-in Hook in react.
-
 <ul>
   <li><a href="https://www.youtube.com/watch?v=nAuWOnFMlOw&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=7&ab_channel=Codevolution"> useEffect after render</a></li>
     <li><a href="https://www.youtube.com/watch?v=8DYlzVUTC7s&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=8&ab_channel=Codevolution">  Conditionally run effects</a>
     <ul>
       <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/effect-hook/src/components/ClassCounterOne.js">ClassCounterOne.js</a></li>
       <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/effect-hook/src/components/HookCounterOne.js">HookCounterOne.js</a></li>
+    </ul>
+  </li>
+
+  <li><a href="https://www.youtube.com/watch?v=BH4xvzHa7H8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=9&ab_channel=Codevolution">  Run effects only once</a></li>
+    <li><a href="https://www.youtube.com/watch?v=DTlmk6QeOHY&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=10&ab_channel=Codevolution">  useEffect with cleanup</a>
+    <ul>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/effect-hook/src/components/ClassMouse.js">ClassMouse.js</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/effect-hook/src/components/HookMouse.js">HookMouse.js
+</a></li>
+    </ul>
+  </li>
+  
+  <li><a href="https://www.youtube.com/watch?v=SP-NrbQHFww&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=11&ab_channel=Codevolution">  useEffect with incorrect dependency</a>
+    <ul>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/effect-hook/src/components/IntervalClassCounter.js">IntervalClassCounter.js</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/effect-hook/src/components/IntervalHookCounter.js">IntervalHookCounter.js
+</a></li>
     </ul>
   </li>
 </ul>
