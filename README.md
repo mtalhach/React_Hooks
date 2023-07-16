@@ -151,10 +151,50 @@ Built-in Hook in react.
 # useCallback Hook
 Built-in Hook in react.
 <ul>
-   <li><a href="https://www.youtube.com/watch?v=imjfiXxvMD8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=24&ab_channel=Codevolution"> Fetching data with useReducer Part 2</a>
+   <li><a href="https://www.youtube.com/watch?v=IL82CzlaCys&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=26&ab_channel=Codevolution"> useCallback Hook</a>
     <ul>
-      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/reducer-hook/src/components/DataFetchingTwo.js">DataFetchingTwo.js
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/callback-hook/src/components/ParentComponent.js">ParentComponent.js
+</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/callback-hook/src/components/Title.js">Title.j
+</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/callback-hook/src/components/Count.js">Count.js
+</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/callback-hook/src/components/Button.js">Button.js
 </a></li>
     </ul>
   </li>
 </ul>
+
+# useMemo Hook
+Built-in Hook in react.
+<ul>
+   <li><a href="https://www.youtube.com/watch?v=qySZIzZvZOY&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=27&ab_channel=Codevolution"> useMemo Hook</a>
+    <ul>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/memo-hook/src/components/Counter.js">Counter.js
+</a></li>
+    </ul>
+  </li>
+</ul>
+
+# useRef Hook
+Built-in Hook in react.
+<ul>
+   <li><a href="https://www.youtube.com/watch?v=yCS2m01bQ6w&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=28&ab_channel=Codevolution"> useRef Hook Part 1</a>
+    <ul>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/ref-hook/src/components/FocusInput.js">FocusInput.js
+</a></li>
+    </ul>
+  </li>
+
+   <li><a href="https://www.youtube.com/watch?v=LWg0OyZQffc&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=29&ab_channel=Codevolution"> useRef Hook Part 2</a>
+    <ul>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/ref-hook/src/components/ClassTimer.js">ClassTimer.js
+</a></li>
+      <li><a href="https://github.com/mtalhach/React_Hooks/blob/main/ref-hook/src/components/HookTimer.js">HookTimer.js
+</a></li>
+    </ul>
+  </li>
+</ul><br>
+
+
+ <h1>Custom Hooks</h1>
