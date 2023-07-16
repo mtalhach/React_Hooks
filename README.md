@@ -29,7 +29,7 @@ Built-in Hook in react.
     </ul>
   </li>
 
-</ul> <br>
+</ul> 
 
 # useEffect Hook 
-
+Built-in Hook in react.
